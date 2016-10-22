@@ -1,0 +1,5 @@
+Homework 2 Team Stakelholders (Team D)
+* The Trello board seems to have an acceptable amount of activity at the current time. Sprints 1 and 2 have been combined together, and the Trello board is well organized and easy to read. 
+* The models all look very well done, and are clear and concise. It is easy to follow the plan for where the team plans to go with their project. User stories are very well explained, and all of them seem to be quite attainable.  The system is described coherently and fully, and the demo also expanded upon that explanation. To this point, everything is smoothly running, and displays a good amount of time and effort put into the project. 
+* There is a good amount of code pushed to the client repo, and it is runnable.  It is fairly easy to understand and work with. 
+* The supplemental specification is very informative and helpful in understanding the requirements more fully. Everything seems to be in place. 
